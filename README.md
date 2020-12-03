@@ -27,7 +27,7 @@ git config --global user.email "hghghghg.hh39@gmail.com"*
 
 - **Закидываем ssh на GitHub**
 Заходим на https://github.com/, регистрируемся, переходим в настройки в раздел "SSH and GPG keys" и кликаем "new SSH key".
-<img alt="Settings from main screen" src="/images/readme/way-to-settings.png"/><img alt="SSH keys menu" src="/images/readme/keys-menu.png"/>
+<p><img alt="Settings from main screen" src="/images/readme/way-to-settings.png"/><img alt="SSH keys menu" src="/images/readme/keys-menu.png"/></p>
 Дальше в появившемся меню в поле *"Title"* вводим что-либо, что у вас ассоциируется с данным компьютером(например, модель), в поле *"Key"* вставляем содержимое файла *id_rsa.pub* из двух шагов ранее(полностью). После этого нажимаем *"Add SSH key"* и видим, что на странице ключей появился новый ssh-ключ.
 
 Если вы смогли дойти до этого шага - поздравляю, **вы смогли настроить Git** для первого использования!
