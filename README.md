@@ -25,7 +25,8 @@ Tutorial for students who is completely new in programming (короче всё 
 - **Конфигурируем** ваше имя и почту:
 
 *git config --global user.name "Hg Hg"*
-<p>*git config --global user.email "hghghghg.hh39@gmail.com"* С вашим email и именем на английском</p>
+
+*git config --global user.email "hghghghg.hh39@gmail.com"* С вашим email и именем на английском
 
 - **Закидываем ssh на GitHub**
 Заходим на https://github.com/, регистрируемся, переходим в настройки в раздел "SSH and GPG keys" и кликаем "new SSH key".
