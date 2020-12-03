@@ -25,7 +25,6 @@ Tutorial for students who is completely new in programming (короче всё 
 - **Конфигурируем** ваше имя и почту:
 
 *git config --global user.name "Hg Hg"
-
 git config --global user.email "hghghghg.hh39@gmail.com"* С вашим email и именем на английском
 
 - **Закидываем ssh на GitHub**
