@@ -84,6 +84,9 @@ Tutorial for students who is completely new in programming (короче всё 
 
 *git commit -m "ИмяОбъединяющегоКоммита"*
 
+#### Удаление ветки с сервера
+*git push -d origin ИмяБранча* **Удаляет нужный бранч** на сервере с именем *origin* (можно менять)
+
 ## Полезные ссылки
 
 [Книга по Гиту(git-scm.com/book/ru/v2)](https://git-scm.com/book/ru/v2): Можно найти довольно неплохие сведения по любому вопросу.
